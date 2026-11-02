@@ -11,7 +11,7 @@ Open [the latest release](https://github.com/CharisChristodoulakis/ConvertCraft/
 - Apple Silicon Mac: the ARM64 `.dmg`
 - Windows x64: the `.exe` installer
 
-The installers are unsigned. Version 0.1.1 must be installed manually if you currently have 0.1.0. From 0.1.1 onward, the app can check this repository for new releases and offer to open a verified installer.
+The installers are unsigned. If you currently have 0.1.0, install the latest version manually once. From 0.1.1 onward, the app can check this repository for new releases and offer to open a verified installer.
 
 ## Source archives
 
